@@ -1,1 +1,1 @@
-PROJECT_NAME=image-extraction-api
+PROJECT_NAME=image-extracter-api
