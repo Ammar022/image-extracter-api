@@ -6,6 +6,9 @@ An API to extract images from any URL
 - Go 1.21.1+
 
 ## Local Setup
+```
+git clone git@github.com:Ammar022/image-extracter-api.git
+```
 
 ## Run
 ```
