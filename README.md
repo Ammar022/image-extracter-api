@@ -1,4 +1,4 @@
-# Image Extracter API
+# Image Extractor API
 
 An API to extract images from the URL
 
