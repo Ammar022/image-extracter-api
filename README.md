@@ -1,6 +1,6 @@
 # Image Extracter API
 
-An API to extract images from any URL
+An API to extract images from the URL
 
 ## Required Tools
 - Go 1.21.1+
